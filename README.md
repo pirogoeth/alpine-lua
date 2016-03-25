@@ -16,6 +16,7 @@ APK:
  - lua5.x-dev      (depends on LUA_VERSION env)
  - make            (depended on by luarocks)
  - git             (depended on by luarocks)
+ - bash            (depended on by ci)
 
 Git:
  - https://github.com/keplerproject/luarocks.git
