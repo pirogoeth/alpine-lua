@@ -17,6 +17,7 @@ APK:
  - build-base      (depended on by luarocks, C-based rocks)
  - git             (depended on by luarocks)
  - bash            (depended on by ci)
+ - unzip           (depended on by luarocks/luazip)
 
 Git:
  - https://github.com/keplerproject/luarocks.git
