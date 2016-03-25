@@ -14,7 +14,7 @@ RUN apk add ${LUA_PACKAGE}
 RUN apk add ${LUA_PACKAGE}-dev
 
 # Build dependencies.
-RUN apk add make git bash
+RUN apk add build-base git bash
 
 # Build Luarocks.
 RUN cd /tmp && \

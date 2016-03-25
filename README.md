@@ -14,7 +14,7 @@ packages
 APK:
  - lua5.x          (depends on LUA_VERSION env)
  - lua5.x-dev      (depends on LUA_VERSION env)
- - make            (depended on by luarocks)
+ - build-base      (depended on by luarocks, C-based rocks)
  - git             (depended on by luarocks)
  - bash            (depended on by ci)
 
