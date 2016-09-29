@@ -1,6 +1,13 @@
 alpine-lua
 ==========
 
+
+| Layers |
+|--------|
+| [![](https://images.microbadger.com/badges/image/pirogoeth/alpine-lua.svg)](https://microbadger.com/images/pirogoeth/alpine-lua) |
+
+----------
+
 alpine-lua is a minimal Docker image built to be as lightweight and
 secure as possible.
 
